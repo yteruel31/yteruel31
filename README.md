@@ -15,6 +15,8 @@ Check out my repos ⬇️
   </samp>
 </p>
 
+![](https://visitor-badge.glitch.me/badge?page_id=yteruel31.yteruel31)
+
 <!--
 **yteruel31/yteruel31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
