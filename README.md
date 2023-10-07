@@ -1,22 +1,3 @@
-<h4 align="center"><samp> Hi there 👋 welcome to my Github! I'm a Software Ninjaneer 🐱‍👤 and Challenger at DevChallenges.io. I also like C# and I'm exploring DevOps 💻 </samp></h4>
-
-
-<p align="center">
-  <img width="600" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
-</p>
-
-<p align="center">
-  <a href= "https://dev.to/yteruel31"><img src="https://img.icons8.com/windows/32/e74c3c/dev.png"/></a>
-  <a href= "https://yteruel.fr"><img src="https://img.icons8.com/windows/32/e74c3c/portfolio.png"/></a>
-</p>
-
-<p align="center"><samp>
-Check out my repos ⬇️  
-  </samp>
-</p>
-
-![](https://visitor-badge.glitch.me/badge?page_id=yteruel31.yteruel31)
-
 <!--
 **yteruel31/yteruel31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,3 +12,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hej I'm Yoann !
+
+I'm a french Frontend developer now working at [Qred Bank AB](https://www.qred.se/) at Stockholm, Sweden 🇸🇪.
+
+I love creating accessible and performant user experiences web application. With a fine eye for detail and a passion for learning, I am always searching for ways to improve the quality of the web for all users.
+
+When I'm not working, I like playing video games and follow MMA events like UFC and PFL.
+
+### What I'm working on
+
+I'm actually working on a web application that permit to control OBS through web socket services.
+
+### What I'm learning
+
+I'm currently learning Cypress and frontend architecture concept.
+
+### Skills & Tech
+
+- React / Typescript / Next JS
+- CSS module / Styled components
+- C# / .NET & ASP.NET
+- GraphQL / NestJS
+
+### How to reach me
+
+- [LinkedIn](https://www.linkedin.com/in/yoann-teruel/)
+- [yoann.teruel@gmail.com](mailto:yoann.teruel@gmail.com)
