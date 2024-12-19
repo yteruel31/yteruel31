@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hej I'm Yoann !
 
-I'm a french Frontend developer now working at [Qred Bank AB](https://www.qred.se/) at Stockholm, Sweden 🇸🇪.
+I'm a french Frontend developer now working at [Gigapay](https://www.gigapay.co/) at Stockholm, Sweden 🇸🇪.
 
 I love creating accessible and performant user experiences web application. With a fine eye for detail and a passion for learning, I am always searching for ways to improve the quality of the web for all users.
 
